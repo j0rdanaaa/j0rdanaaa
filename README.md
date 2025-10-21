@@ -49,18 +49,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Jordana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanagoes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanagoes&layout=compact&theme=radical)
-
----
 
 ## 📫 Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com](https://br.linkedin.com/in/jordanagoes)
 - ✉️ Email: j0rdana_7@hotmail.com 
-- 🐙 [GitHub Profile](https://github.com/jordanagoes)
 
 ---
 
