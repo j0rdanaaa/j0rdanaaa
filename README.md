@@ -1,6 +1,6 @@
 # 💫 Hi, my name is Jordana — a Full Stack Developer!
 
-<img src="https://user-images.githubusercontent.com/104728985/185769355-dc5ed636-1667-4bf4-9fb8-bc1dd7aee7f7.gif" width="400" alt="Cute cat coding gif"/>
+
 
 ## 👩‍💻 About Me
 - 🌎 I'm from Brazil  
