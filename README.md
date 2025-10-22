@@ -1,7 +1,5 @@
 # 💫 Hi, my name is Jordana — a Full Stack Developer!
-<p align="center">
-  <img src="https://cdn.pixilart.com/photos/orginal/9ddc64b4d66a4a7.gif" alt="Jordana Cat GIF" width="500" />
-</p>
+
 
 
 
