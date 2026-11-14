@@ -7,7 +7,7 @@
 
 *Turning ideas into meaningful digital experiences.*
 
-<img src="https://cdn.pixilart.com/photos/orginal/c1e372d67db72ee.gif" alt="Jordana Cat GIF" width="500" />
+<img src="https://cdn.pixilart.com/photos/original/c1e372d67db72ee.gif" alt="Jordana Cat GIF" width="500" />
 
 </div>
 
